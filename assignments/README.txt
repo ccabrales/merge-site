@@ -15,6 +15,12 @@ TO LAUNCH THE MERGE PROTOTYPE FOLLOW THE INSTRUCTIONS BELOW:
 7. Once downloaded, click on the completed download and install the Merge apk
 8. Select open, and now Merge is running in your emulator!
 
+ALTERNATIVE LAUNCHING METHODS
+
+If you have an Android phone or device, you can download the apk directly and install it onto your device for use.
+Follow the above steps beginning at step 6, where you download the apk from the URL listed. You may need to enable installation in your
+device settings. Go to Settings > Security and check the box next to "Unknown Sources." A dialogue box may pop up asking you to confirm,
+and you can just press OK.
 
 HOW TO USE THE MERGE PROTOTYPE
 
